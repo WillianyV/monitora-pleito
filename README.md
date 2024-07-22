@@ -18,7 +18,7 @@ PHP ^8.2, Composer, Banco de Dados de Sua Preferência.
 3. Copie o arquivo .env.example para .env
 4. Defina uma nova chave no seu arquivo .env (php artisan key:generate)
 4. Insira as as conecções com o Banco de Dados.
-5. 
+
 ---
 
 ## 🛠 Tecnologias
